@@ -1,0 +1,15 @@
+C:\Users\taiwe\Documents\basic\IntVariable\obj\Debug\net8.0\IntVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taiwe\Documents\basic\IntVariable\obj\Debug\net8.0\IntVariable.AssemblyInfoInputs.cache
+C:\Users\taiwe\Documents\basic\IntVariable\obj\Debug\net8.0\IntVariable.AssemblyInfo.cs
+C:\Users\taiwe\Documents\basic\IntVariable\obj\Debug\net8.0\IntVariable.csproj.CoreCompileInputs.cache
+C:\Users\taiwe\Documents\basic\IntVariable\obj\Debug\net8.0\IntVariable.sourcelink.json
+C:\Users\taiwe\Documents\basic\IntVariable\bin\Debug\net8.0\IntVariable.exe
+C:\Users\taiwe\Documents\basic\IntVariable\bin\Debug\net8.0\IntVariable.deps.json
+C:\Users\taiwe\Documents\basic\IntVariable\bin\Debug\net8.0\IntVariable.runtimeconfig.json
+C:\Users\taiwe\Documents\basic\IntVariable\bin\Debug\net8.0\IntVariable.dll
+C:\Users\taiwe\Documents\basic\IntVariable\bin\Debug\net8.0\IntVariable.pdb
+C:\Users\taiwe\Documents\basic\IntVariable\obj\Debug\net8.0\IntVariable.dll
+C:\Users\taiwe\Documents\basic\IntVariable\obj\Debug\net8.0\refint\IntVariable.dll
+C:\Users\taiwe\Documents\basic\IntVariable\obj\Debug\net8.0\IntVariable.pdb
+C:\Users\taiwe\Documents\basic\IntVariable\obj\Debug\net8.0\IntVariable.genruntimeconfig.cache
+C:\Users\taiwe\Documents\basic\IntVariable\obj\Debug\net8.0\ref\IntVariable.dll
