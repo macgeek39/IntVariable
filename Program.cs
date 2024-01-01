@@ -1,7 +1,10 @@
-﻿
+﻿//int age = 0;
+//age = 45;
+//Console.WriteLine(age);
 
-int age = 0;
+//trueOrFalse
+//bool isComplete = true;
+//isComplete = !isComplete;
+//Console.WriteLine(isComplete);
 
-age = 45;
 
-Console.WriteLine(age);
